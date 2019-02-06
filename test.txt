@@ -1,0 +1,5 @@
+git commit --amend
+i
+shift+:
+wq
+enter
